@@ -8,6 +8,8 @@ public class Practice {
         
         System.out.println("So far everything is good");
         System.out.println("Yay, I created my REPO");
+        
+        System.out.println("Let's try with git pull right now");
 
 
 
