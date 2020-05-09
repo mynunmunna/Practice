@@ -11,6 +11,8 @@ public class Practice {
         
         System.out.println("Let's try with git pull right now");
 
+        System.out.println("Do u think I would  able to finish this course?");
+
 
 
 
