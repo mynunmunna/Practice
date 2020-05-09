@@ -5,6 +5,9 @@ public class Practice {
 
         System.out.println("Hello world");
         System.out.println("Practicing git today");
+        
+        System.out.println("So far everything is good");
+        System.out.println("Yay, I created my REPO");
 
 
 
